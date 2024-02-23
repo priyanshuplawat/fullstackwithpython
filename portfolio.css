@@ -1,0 +1,98 @@
+
+
+#e{
+    height: 60px;
+    display: flex;
+    
+    
+}
+    
+input{
+    height: 35px;
+    width: 800px;
+    position: absolute;
+    border-radius: 2px;
+    right: 250px;
+    top: 25px;
+    
+}
+button{
+    width: 80px;
+    height: 25px;
+    background-color: rgb(223, 218, 247);
+    border-radius: 3px;
+    position: absolute;
+    right: 140px;
+    top: 32px;
+}
+.v{
+    position: absolute;
+    right: 70px;
+    background-color: azure;
+    top: 32px;
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.v:hover{
+    color: red;
+    font-size: 21px;
+}
+
+#e img{
+    height: 70px;
+    width: 150px;
+}
+.b{
+    position: relative;
+    top: 1px;
+    display: flex;
+    justify-content: left;
+    
+    margin: 0px;
+}
+
+.g{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(97, 223, 160);
+}
+.g:hover{
+    color: rgb(120, 108, 192);
+    /* font-size: 17px; */
+    
+}
+.d{
+    height: 500px;
+    width: 100%;
+
+}
+.f{
+    height: 200px;
+    background-color: rgb(24, 22, 22);
+}
+.c1{
+    
+    margin: 10PX;
+    padding: 20px;
+    height: 40px;
+    width: 55px;
+}
+.container{
+    display: flex;
+}
+.o{
+    padding: 10px;
+    margin: 10px;
+    color: rgb(230, 242, 252);
+    display: flex;
+    text-decoration: none;
+
+}
+.l{
+    display: flex;
+    justify-content: center;
+    color: rgb(208, 222, 235);
+    font-size: 13px;
+}
